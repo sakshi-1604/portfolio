@@ -1,0 +1,30 @@
+[
+    {
+      "title": "NFT marketplace",
+      "imageSrc": "projects/nft_img.jpg",
+      "description": "Platform for buying, selling, minting, and listing NFTs (*Goerli test ETH required)",
+      "skills": ["React", " Solidity", "Node","Hardhat","Web3.js","IPFS","Pinata"],
+      "demo": "https://sakshi-1604.github.io/NFT_Marketplace/",
+      "source": "https://github.com/sakshi-1604/NFT_Marketplace"
+    },
+    {
+      "title": "Game: Runner Dapp",
+      "imageSrc": "projects/runner.jpg",
+      "description": "Dodge obstacles, collect NFTs, and redeem real rewards with your Metamask. Experience a thrilling adventure with seamless rewards.",
+      "skills": ["Blockchain", "Solidity", "Hardhat",
+      "HTML", "CSS", "Javascript"],
+      "demo": "https://runner-de3d6.web.app/",
+      "source": "https://github.com/sakshi-1604/runner-game-dapp"
+    },
+    {
+      "title": "Ether Donation Dapp",
+      "imageSrc": "projects/donate.jpg",
+      "description": "Ethereum Donation DApp facilitates seamless Ether contributions to charitable causes",
+      "skills": ["Hardhat", "Blockchain",
+      "Ethers.js", "React",  "Solidity"
+      ],
+      "demo": "https://sakshi-1604.github.io/ether-donation-dapp/",
+      "source": "https://github.com/sakshi-1604/ether-donation-dapp"
+    }
+  ]
+  

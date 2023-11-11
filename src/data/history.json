@@ -1,0 +1,30 @@
+[
+    {
+      "role": "Blockchain dev",
+      "organisation": "SDLC",
+      "startDate": "Feb, 2023",
+      "endDate": "May, 2023",
+      "experiences": ["Experienced in custom Solidity contracts (ERC721, ERC721A, ERC20)", "optimized Web3.js and ethers.js interaction for responsiveness","conducted thorough Hardhat testing, resulting in a 25% reduction in vulnerabilities"],
+      "imageSrc": "history/sdl.png"
+    },
+    {
+      "role": "Graduate Engineer Trainee",
+      "organisation": "LTI",
+      "startDate": "Feb, 2023",
+      "endDate": "April, 2023",
+      "experiences": ["Gained foundational expertise in Java", "Attained proficiency in the basics of SQL programming "],
+      "imageSrc": "history/LTI.png"
+    },
+    {
+      "role": "Publications",
+      "organisation": "IJARSCT",
+      "startDate": "Jan, 2023",
+      "endDate": "",
+      "experiences": [
+        "Drug Traceability in Healthcare Supply Chain using Blockchain: A Review"
+        
+      ],
+      "imageSrc": "history/research.png"
+    }
+  ]
+  
