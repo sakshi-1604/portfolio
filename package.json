@@ -2,7 +2,7 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://sakshi-1604.github.io/",
+  "homepage": "https://sakshi-1604.github.io/portfolio/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
